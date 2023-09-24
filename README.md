@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aukovien
+- 👋 Hi, I’m Anar "Aukovien" Enkhzol
 - 🌟 I'm also known as Auden.
 - 👀 I’m interested in anything that has to do with AI.
 - 🌱 Currently a student at CU Boulder
