@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anar "Aukovien" Enkhzol
+- 👋 Hi, I’m Aukovien
 - 🌟 I'm also known as Auden.
 - 👀 I’m interested in anything that has to do with Cybersecurity & Machine Learning.
 - 🌱 Currently a student at CU Boulder
