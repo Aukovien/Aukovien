@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aukovien
 - 🌟 I'm also known as Auden.
 - 👀 I’m interested in anything that has to do with Cybersecurity & Machine Learning.
-- 🌱 Currently a student at CU Boulder
+- 🌱 Currently a CS student at CU Boulder
 
 
 <!--- 
