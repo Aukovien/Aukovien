@@ -1,8 +1,12 @@
+[![Aukovien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aukovien)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!---
 - 👋 Hi, I’m Aukovien
 - 🌟 I'm also known as Auden.
 - 👀 I’m interested in anything that has to do with Cybersecurity & Machine Learning.
 - 🌱 Currently a CS student at CU Boulder
-
+--->
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
