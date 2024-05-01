@@ -1,5 +1,9 @@
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aukovien&show_icons=true&theme=github_dark">
+</div>
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aukovien&hide=html,shell&theme=github_dark">
 </div>
 
 
@@ -18,7 +22,7 @@
 <!---
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aukovien&hide=html,shell&theme=tokyonight)
 --->
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aukovien&hide=html,shell&theme=tokyonight)
+
 
 
 <!---
