@@ -1,3 +1,6 @@
+# Hi there, I'm Anar.
+
+```Rust
 fn main() {
     let firstname = "Anar";
     let lastname = "Enkhzol";
@@ -15,3 +18,4 @@ fn main() {
     println!("Interests: {:?}", interests);
     println!("Social: {}", social);
 }
+```
