@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Aukovien
-- 👀 I’m interested in anything that has to do with Cybersecurity.
-- 🌱 Currently a CS student at CU Boulder
+fn main() {
+    let firstname = "Anar";
+    let lastname = "Enkhzol";
+    let alias = "Aukovien";
+    let age = "23";
+    let interests = [
+        "Cybersecurity", "OSINT", "Web Exploit",
+        "Pentesting", "Social Engineering",
+        "Cooking"
+    ];
+    
+    let social = "@Aukovien";
 
-<!--- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aukovien&hide=html,shell&theme=tokyonight)
---->
-
-<!---
-Aukovien/Aukovien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    println!(r#"{} "{}" {} | Age: {}"#, firstname, alias, lastname, age);
+    println!("Interests: {:?}", interests);
+    println!("Social: {}", social);
+}
