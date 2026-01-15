@@ -8,8 +8,7 @@ fn main() {
     let age = "23";
     let interests = [
         "Cybersecurity", "OSINT", "Web Exploit",
-        "Pentesting", "Social Engineering",
-        "Cooking"
+        "Reverse Engineering", "Cooking"
     ];
     
     let social = "@Aukovien";
