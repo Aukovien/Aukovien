@@ -5,7 +5,7 @@ fn main() {
     let firstname = "Anar";
     let lastname = "Enkhzol";
     let alias = "Aukovien";
-    let age = "23";
+    let age = "24";
     let interests = [
         "Cybersecurity", "OSINT", "Web Exploit",
         "Reverse Engineering", "Cooking"
