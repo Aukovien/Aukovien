@@ -1,0 +1,86 @@
+<svg viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-size: 13px; }
+    .c  { fill: #e6edf3; }
+    .kw { fill: #ff7b72; }
+    .fn { fill: #d2a8ff; }
+    .st { fill: #a5d6ff; }
+    .vr { fill: #e6edf3; font-weight: 600; }
+    .cur-label { fill: #1a7f37; font-size: 10px; letter-spacing: 0.12em; }
+    .cur-text  { fill: #57606a; }
+    .td { fill: #8b949e; }
+    .tb { stroke: #30363d; }
+    @media (prefers-color-scheme: light) {
+      .cur-label { fill: #1a7f37; }
+      .cur-text  { fill: #57606a; }
+      .td { fill: #57606a; }
+      .tb { stroke: #d0d7de; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .cur-label { fill: #3fb950; }
+      .cur-text  { fill: #8b949e; }
+    }
+  </style>
+
+  <!-- code block — always dark -->
+  <rect width="800" height="178" rx="6" fill="#0d1117"/>
+  <rect width="3" height="178" fill="#5DCAA5"/>
+
+  <text y="34" x="24">
+    <tspan class="kw">fn </tspan><tspan class="fn">main</tspan><tspan class="c">() {</tspan>
+  </text>
+
+  <text y="62" x="24">
+    <tspan class="kw">    let </tspan><tspan class="vr">focus</tspan><tspan class="c"> = </tspan><tspan class="st">"osint, web exploit, reverse engineering, cooking"</tspan><tspan class="c">;</tspan>
+  </text>
+
+  <text y="90" x="24">
+    <tspan class="kw">    let </tspan><tspan class="vr">stack</tspan><tspan class="c"> = [</tspan><tspan class="st">"Rust"</tspan><tspan class="c">, </tspan><tspan class="st">"C/C++"</tspan><tspan class="c">, </tspan><tspan class="st">"Go"</tspan><tspan class="c">, </tspan><tspan class="st">"x86 asm"</tspan><tspan class="c">];</tspan>
+  </text>
+
+  <text y="118" x="24">
+    <tspan class="kw">    let </tspan><tspan class="vr">now  </tspan><tspan class="c"> = </tspan><tspan class="st">"building avhud, audio to video HUD in C++"</tspan><tspan class="c">;</tspan>
+  </text>
+
+  <text y="150" x="24" class="c">}</text>
+
+  <!-- currently section -->
+  <rect x="0" y="192" width="3" height="44" fill="#5DCAA5"/>
+  <text x="14" y="207" class="cur-label">&#x25B8; CURRENTLY</text>
+  <text x="14" y="228" class="cur-text">avhud, real-time audio visualization HUD</text>
+
+  <!-- tags row — 12px padding each side, stroke-width 1 -->
+  <rect x="0"   y="252" width="56" height="22" rx="3" stroke="#e24b4a" stroke-width="1"/>
+  <text x="12"  y="267" font-size="11" fill="#e24b4a">rust</text>
+
+  <rect x="64"  y="252" width="36" height="22" rx="3" stroke="#378add" stroke-width="1"/>
+  <text x="76"  y="267" font-size="11" fill="#378add">c</text>
+
+  <rect x="108" y="252" width="50" height="22" rx="3" stroke="#378add" stroke-width="1"/>
+  <text x="120" y="267" font-size="11" fill="#378add">c++</text>
+
+  <rect x="166" y="252" width="44" height="22" rx="3" stroke="#5dcaa5" stroke-width="1"/>
+  <text x="178" y="267" font-size="11" fill="#5dcaa5">go</text>
+
+  <rect x="218" y="252" width="70" height="22" rx="3" stroke="#afa9ec" stroke-width="1"/>
+  <text x="230" y="267" font-size="11" fill="#afa9ec">python</text>
+
+  <rect x="296" y="252" width="78" height="22" rx="3" class="tb" stroke-width="1"/>
+  <text x="308" y="267" font-size="11" class="td">x86 asm</text>
+
+  <rect x="382" y="252" width="50" height="22" rx="3" class="tb" stroke-width="1"/>
+  <text x="394" y="267" font-size="11" class="td">gdb</text>
+
+  <rect x="440" y="252" width="50" height="22" rx="3" stroke="#ef9f27" stroke-width="1"/>
+  <text x="452" y="267" font-size="11" fill="#ef9f27">ida</text>
+
+  <rect x="498" y="252" width="98" height="22" rx="3" stroke="#ef9f27" stroke-width="1"/>
+  <text x="510" y="267" font-size="11" fill="#ef9f27">burp suite</text>
+
+  <rect x="604" y="252" width="64" height="22" rx="3" class="tb" stroke-width="1"/>
+  <text x="616" y="267" font-size="11" class="td">linux</text>
+
+  <rect x="676" y="252" width="50" height="22" rx="3" class="tb" stroke-width="1"/>
+  <text x="688" y="267" font-size="11" class="td">zed</text>
+
+</svg>
