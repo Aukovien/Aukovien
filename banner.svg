@@ -30,16 +30,16 @@
     <tspan class="kw">fn </tspan><tspan class="fn">main</tspan><tspan class="c">() {</tspan>
   </text>
 
-  <text y="62" x="24">
-    <tspan class="kw">    let </tspan><tspan class="vr">focus</tspan><tspan class="c"> = </tspan><tspan class="st">"osint, web exploit, reverse engineering, cooking"</tspan><tspan class="c">;</tspan>
+  <text y="62" x="55">
+    <tspan class="kw">let </tspan><tspan class="vr">focus</tspan><tspan class="c"> = </tspan><tspan class="st">"osint, web exploit, reverse engineering, cooking"</tspan><tspan class="c">;</tspan>
   </text>
 
-  <text y="90" x="24">
-    <tspan class="kw">    let </tspan><tspan class="vr">stack</tspan><tspan class="c"> = [</tspan><tspan class="st">"Rust"</tspan><tspan class="c">, </tspan><tspan class="st">"C/C++"</tspan><tspan class="c">, </tspan><tspan class="st">"Go"</tspan><tspan class="c">, </tspan><tspan class="st">"x86 asm"</tspan><tspan class="c">];</tspan>
+  <text y="90" x="55">
+    <tspan class="kw">let </tspan><tspan class="vr">stack</tspan><tspan class="c"> = [</tspan><tspan class="st">"Rust"</tspan><tspan class="c">, </tspan><tspan class="st">"C/C++"</tspan><tspan class="c">, </tspan><tspan class="st">"Go"</tspan><tspan class="c">, </tspan><tspan class="st">"x86 asm"</tspan><tspan class="c">];</tspan>
   </text>
 
-  <text y="118" x="24">
-    <tspan class="kw">    let </tspan><tspan class="vr">now  </tspan><tspan class="c"> = </tspan><tspan class="st">"building avhud, audio to video HUD in C++"</tspan><tspan class="c">;</tspan>
+  <text y="118" x="55">
+    <tspan class="kw">let </tspan><tspan class="vr">now  </tspan><tspan class="c"> = </tspan><tspan class="st">"building avhud, audio to video HUD in C++"</tspan><tspan class="c">;</tspan>
   </text>
 
   <text y="150" x="24" class="c">}</text>
