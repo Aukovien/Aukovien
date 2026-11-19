@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="222" viewBox="0 0 800 222" fill="none" role="img" aria-labelledby="t">
+  <title id="t">fn main: focus osint, web exploit, reverse engineering, cooking. Stack Rust, C/C++, Go, x86 asm. Now studying for PNPT.</title>
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 13px; }
+
+    /* light theme (GitHub light syntax colors) */
+    .c  { fill: #1f2328; }
+    .kw { fill: #cf222e; }
+    .fn { fill: #8250df; }
+    .st { fill: #0a3069; }
+    .vr { fill: #1f2328; font-weight: 600; }
+    .tag rect  { stroke-width: 1; }
+    .tag text  { text-anchor: middle; }
+    .red rect    { stroke: #cf222e; }    .red text    { fill: #cf222e; }
+    .blue rect   { stroke: #0969da; }   .blue text   { fill: #0969da; }
+    .teal rect   { stroke: #0e7c66; }   .teal text   { fill: #0e7c66; }
+    .purple rect { stroke: #8250df; } .purple text { fill: #8250df; }
+    .orange rect { stroke: #bc4c00; } .orange text { fill: #bc4c00; }
+    .muted rect  { stroke: #d1d9e0; } .muted text { fill: #59636e; }
+  </style>
+
+  <!-- code block: no background, so it always matches GitHub's page color -->
+  <rect width="3" height="178" fill="#5dcaa5"/>
+
+  <text x="24" y="34"><tspan class="kw">fn</tspan> <tspan class="fn">main</tspan><tspan class="c">() {</tspan></text>
+  <text x="55" y="62"><tspan class="kw">let</tspan> <tspan class="vr">focus</tspan> <tspan class="c">=</tspan> <tspan class="st">"osint, web exploit, reverse engineering, cooking"</tspan><tspan class="c">;</tspan></text>
+  <text x="55" y="90"><tspan class="kw">let</tspan> <tspan class="vr">stack</tspan> <tspan class="c">= [</tspan><tspan class="st">"Rust"</tspan><tspan class="c">,</tspan> <tspan class="st">"C/C++"</tspan><tspan class="c">,</tspan> <tspan class="st">"Go"</tspan><tspan class="c">,</tspan> <tspan class="st">"x86 asm"</tspan><tspan class="c">];</tspan></text>
+  <text x="55" y="118"><tspan class="kw">let</tspan> <tspan class="vr">now&#160;&#160;</tspan> <tspan class="c">=</tspan> <tspan class="st">"studying for PNPT"</tspan><tspan class="c">;</tspan></text>
+  <text x="24" y="150" class="c">}</text>
+
+  <!-- tags: to add one, copy a line, bump x past the previous tag + 8, width = 7.8 per char + 24 -->
+  <g class="tag red"><rect x="0.5" y="194.5" width="56" height="21" rx="3"/><text x="28.5" y="209">rust</text></g>
+  <g class="tag blue"><rect x="64.5" y="194.5" width="32" height="21" rx="3"/><text x="80.5" y="209">c</text></g>
+  <g class="tag blue"><rect x="104.5" y="194.5" width="48" height="21" rx="3"/><text x="128.5" y="209">c++</text></g>
+  <g class="tag teal"><rect x="160.5" y="194.5" width="40" height="21" rx="3"/><text x="180.5" y="209">go</text></g>
+  <g class="tag purple"><rect x="208.5" y="194.5" width="71" height="21" rx="3"/><text x="244" y="209">python</text></g>
+  <g class="tag muted"><rect x="287.5" y="194.5" width="79" height="21" rx="3"/><text x="327" y="209">x86 asm</text></g>
+  <g class="tag muted"><rect x="374.5" y="194.5" width="48" height="21" rx="3"/><text x="398.5" y="209">gdb</text></g>
+  <g class="tag orange"><rect x="430.5" y="194.5" width="48" height="21" rx="3"/><text x="454.5" y="209">ida</text></g>
+  <g class="tag orange"><rect x="486.5" y="194.5" width="102" height="21" rx="3"/><text x="537.5" y="209">burp suite</text></g>
+  <g class="tag muted"><rect x="596.5" y="194.5" width="63" height="21" rx="3"/><text x="628" y="209">linux</text></g>
+  <g class="tag muted"><rect x="667.5" y="194.5" width="48" height="21" rx="3"/><text x="691.5" y="209">zed</text></g>
+</svg>
